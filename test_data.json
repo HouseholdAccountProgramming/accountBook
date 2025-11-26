@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "type": "지출",
+      "date": "2025-10-15",
+      "category": "Food",
+      "amount": 50000,
+      "description": "점심 식사"
+    },
+    {
+      "id": 2,
+      "type": "지출",
+      "date": "2025-10-16",
+      "category": "Transport",
+      "amount": 30000,
+      "description": "지하철 카드 충전"
+    },
+    {
+      "id": 3,
+      "type": "지출",
+      "date": "2025-10-17",
+      "category": "Shopping",
+      "amount": 100000,
+      "description": "옷 구매"
+    }
+  ]
+}

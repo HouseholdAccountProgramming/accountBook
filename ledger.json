@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "type": "수입 (+)",
+      "date": "2026-03-15",
+      "category": "Transport",
+      "amount": 12876858,
+      "description": "SDAF"
+    },
+    {
+      "id": 4,
+      "type": "수입 (+)",
+      "date": "2025-12-23",
+      "category": "Transfer",
+      "amount": 100000,
+      "description": "�⸸�ȳ� ���޾ֳ�"
+    },
+    {
+      "id": 6,
+      "type": "수입 (+)",
+      "date": "2025-12-20",
+      "category": "Transfer",
+      "amount": 100000,
+      "description": "isadbfub       iihihui"
+    },
+    {
+      "id": 7,
+      "type": "수입 (+)",
+      "date": "2025-11-30",
+      "category": "Food",
+      "amount": 10000,
+      "description": "adfodfhaifh asdifhof"
+    },
+    {
+      "id": 8,
+      "type": "수입 (+)",
+      "date": "2025-11-30",
+      "category": "Food",
+      "amount": 120000,
+      "description": "nfpfgns spfgnpgn"
+    },
+    {
+      "id": 9,
+      "type": "수입 (+)",
+      "date": "2025-11-30",
+      "category": "Food",
+      "amount": 10000000,
+      "description": "fdnglsn fdgnspg"
+    },
+    {
+      "id": 10,
+      "type": "수입 (+)",
+      "date": "2025-11-30",
+      "category": "Food",
+      "amount": 10000000,
+      "description": "5"
+    },
+    {
+      "id": 11,
+      "type": "수입 (+)",
+      "date": "2025-11-20",
+      "category": "Food",
+      "amount": 100000,
+      "description": "fdogmospgpsdfng"
+    },
+    {
+      "id": 12,
+      "type": "수입 (+)",
+      "date": "2025-12-30",
+      "category": "Living",
+      "amount": 100000,
+      "description": "dfspondspanf"
+    },
+    {
+      "id": 13,
+      "type": " 지출 (-)",
+      "date": "2026-04-15",
+      "category": "Hobby",
+      "amount": -234234,
+      "description": "���ִ� ����"
+    }
+  ]
+}

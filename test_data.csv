@@ -1,0 +1,4 @@
+id,type,date,category,amount,description
+1,지출,2025-10-15,Food,50000,점심 식사
+2,지출,2025-10-16,Transport,30000,지하철 카드 충전
+3,지출,2025-10-17,Shopping,100000,옷 구매
