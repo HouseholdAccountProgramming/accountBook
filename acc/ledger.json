@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": 26,
+      "type": "수입 (+)",
+      "date": "2026-02-11",
+      "category": "Food",
+      "amount": 32423,
+      "description": "asdf"
+    },
+    {
+      "id": 27,
+      "type": " 지출 (-)",
+      "date": "2027-02-05",
+      "category": "Transport",
+      "amount": -1234,
+      "description": "asfa"
+    },
+    {
+      "id": 28,
+      "type": " 지출 (-)",
+      "date": "2026-02-11",
+      "category": "Transfer",
+      "amount": -123,
+      "description": "05"
+    },
+    {
+      "id": 29,
+      "type": "수입 (+)",
+      "date": "2026-02-28",
+      "category": "Hobby",
+      "amount": 125000,
+      "description": "책을 읽읍시다!"
+    }
+  ]
+}
